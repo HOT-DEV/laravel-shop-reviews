@@ -1,5 +1,6 @@
 [![pipeline status](https://gitlab.linphone.org/BC/public/linphone-desktop/badges/master/pipeline.svg)](https://gitlab.linphone.org/BC/public/linphone-desktop/commits/master)
 
+
 # Linphone Desktop
 
 Linphone is an open source softphone for voice and video over IP calling and instant messaging.
